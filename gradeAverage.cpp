@@ -35,7 +35,7 @@ int main() {
         average = sum / grades.size();
 
 
-        cout << "/n" << endl;
+        cout << "\n" << endl;
         cout << "Average grade: " << average << endl;
         cout << "Best grade: " << best << endl;
         cout << "Worst grade: " << worst << endl;
